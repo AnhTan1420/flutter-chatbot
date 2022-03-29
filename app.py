@@ -1,5 +1,3 @@
-from crypt import methods
-from unittest import result
 from flask import Flask, jsonify, request
 import time
 
