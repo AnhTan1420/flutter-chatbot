@@ -1,4 +1,4 @@
-apt-clone==0.2.1
+
 apturl==0.5.2
 async-generator==1.10
 attrs==21.4.0
@@ -64,7 +64,6 @@ pyparsing==2.4.6
 pyparted==3.11.2
 pyRFC3339==1.1
 PySocks==1.7.1
-python-apt==2.0.0+ubuntu0.20.4.7
 python-debian===0.1.36ubuntu1
 python-magic==0.4.16
 python-xapp==2.2.1
