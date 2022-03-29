@@ -2,7 +2,7 @@ from flask import Flask, jsonify, request
 import time
 
 app = Flask(__name__)
-@app.route("/bot", methods["POST"])
+@app.route("/bot", method["POST"])
 
 
 def response():
